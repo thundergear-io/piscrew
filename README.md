@@ -3,18 +3,16 @@ Pi Screw is a shield designed for Raspberry Pi Boards. The purpose of this shiel
 
 Please refer to our documentation for more information and board compatibility:
 
+https://github.com/thundergear-io/piscrew/blob/main/documentation/piscrew-documentation.pdf
+
 
 # Front 
 
-
-![picture]()
-
+![picture](https://github.com/thundergear-io/piscrew/blob/main/media/front.png)
 
 # Back
 
-
-![picture]()
-
+![picture](https://github.com/thundergear-io/piscrew/blob/main/media/back.png)
 
 # Certification
 pending

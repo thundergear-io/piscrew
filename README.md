@@ -15,7 +15,8 @@ https://github.com/thundergear-io/piscrew/blob/main/documentation/piscrew-docume
 ![picture](https://github.com/thundergear-io/piscrew/blob/main/media/back.png)
 
 # Certification
-pending
+![picture](https://github.com/thundergear-io/piscrew/blob/main/media/MU00009.svg)
+![picture](https://github.com/thundergear-io/piscrew/blob/main/media/oshw_facts.svg)
 
 
 # Contact
